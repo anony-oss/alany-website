@@ -19,4 +19,9 @@ export default {
   height: 100%;
   padding: 1em;
 }
+@media screen and (max-width: 768px){
+    .main-block{
+        width: 100%;
+    }
+}
 </style>

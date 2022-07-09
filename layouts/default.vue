@@ -15,4 +15,9 @@
     display: flex;
     padding-top: 3.5em;
 }
+@media screen and (max-width: 768px){
+    .right-block{
+        flex-direction: column;
+    }
+}
 </style>

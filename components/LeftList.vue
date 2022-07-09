@@ -36,4 +36,10 @@ ul li:hover{
     margin-left: 0;
     color: black;
 }
+@media screen and (max-width: 768px){
+    .main-block{
+        width: 100%;
+        height: 50vh;
+    }
+}
 </style>
